@@ -1,5 +1,4 @@
-import './SearchInput/SearchStyle'
-
+import './SearchStyle.css'
 function SearchInpput() {
   return (
     <div className='Search'>
